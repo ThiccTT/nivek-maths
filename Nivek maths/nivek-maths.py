@@ -2,7 +2,7 @@ import kanu
 
 while True:
 
-    print('\n          4Select one:')
+    print('\n          Select one:')
     print('\t1 -> Solve a linear equation')
     print('\t2 -> Simplify any expression')
     print('\t3 -> Is this number a Perfect Square?')
